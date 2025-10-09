@@ -2,6 +2,7 @@
 #include<stdlib.h>
 int main()
 {
+    int n;
     int *p=NULL;
     p=(int *)calloc(2,sizeof(int));
     int i,j;
