@@ -30,6 +30,7 @@ This repository is not just about syntax — it focuses on logic building, memor
 
 ![image alt](https://github.com/ThummaRahul/C-PROGRAMMING/blob/main/c-language.png?raw=true)
 
+
 ✅ Core C Programming
 
 Variables, Data Types
@@ -123,6 +124,8 @@ This repository will constantly evolve into a complete C programming & embedded 
 If you're a recruiter, mentor, or fellow learner, feel free to connect with me on LinkedIn:
 
 🔗 www.linkedin.com/in/rahulthumma002
+
+![image alt](https://github.com/ThummaRahul/C-PROGRAMMING/blob/main/Screenshot%202025-12-04%20064840.png?raw=true)
 
 I'm always open to:
 
