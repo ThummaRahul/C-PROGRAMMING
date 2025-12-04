@@ -28,6 +28,8 @@ Goal: To become a highly skilled embedded & firmware engineer
 
 This repository is not just about syntax — it focuses on logic building, memory efficiency, and industry standards.
 
+![image alt](https://github.com/ThummaRahul/Vector_Mini_Project_V25He2T5/blob/main/main/1.png?raw=true)
+
 ✅ Core C Programming
 
 Variables, Data Types
